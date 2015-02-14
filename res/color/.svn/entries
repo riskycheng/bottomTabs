@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://huangsm.googlecode.com/svn"
+   revision="66"
+   last-author="huangsanm@gmail.com"
+   url="https://huangsm.googlecode.com/svn/trunk/UiDemo/res/color"
+   committed-rev="66"
+   kind="dir"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+<entry
+   name="selector_tab_text.xml"
+   checksum="69fd4068092736569d0e313189c37096"
+   last-author="huangsanm@gmail.com"
+   text-time="2013-01-05T06:15:39.711000Z"
+   committed-rev="66"
+   kind="file"
+   committed-date="2013-01-05T08:12:19.543000Z"/>
+</wc-entries>

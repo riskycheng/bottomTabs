@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="url">
+        <item>http://list.image.baidu.com/t/image_category/galleryimg/funny/funnyperson/zhu_rn.jpg</item>
+		<item>http://list.image.baidu.com/t/image_category/galleryimg/funny/funnyperson/feng_j.jpg</item>
+		<item>http://list.image.baidu.com/t/image_category/galleryimg/funny/funnyperson/q_bmx.jpg</item>
+		<item>http://list.image.baidu.com/t/image_category/galleryimg/funny/funnything/chuan_bjt.jpg</item>
+		<item>http://list.image.baidu.com/t/image_category/galleryimg/funny/funnything/chuang_ygg.jpg</item>
+		<item>http://list.image.baidu.com/t/image_category/galleryimg/funny/funnycartoon/daomeixiong.jpg</item>
+		<item>http://list.image.baidu.com/t/image_category/galleryimg/funny/funnyperson/fei_czr.jpg</item>
+		<item>http://list.image.baidu.com/t/image_category/galleryimg/funny/funnything/gao_xfx.jpg</item>
+		<item>http://list.image.baidu.com/t/image_category/galleryimg/funny/funnycartoon/gao_xmh.jpeg</item>
+		<item>http://list.image.baidu.com/t/image_category/galleryimg/funny/funnything/gao_xsg.jpg</item>
+		<item>http://list.image.baidu.com/t/image_category/galleryimg/funny/funnyperson/hong_yjz.jpg</item>
+		<item>http://list.image.baidu.com/t/image_category/galleryimg/funny/funnycartoon/jia_fm.jpg</item>
+		<item>http://list.image.baidu.com/t/image_category/galleryimg/funny/funnycartoon/la_bxx.jpg</item>
+		<item>http://list.image.baidu.com/t/image_category/galleryimg/funny/funnycartoon/liu_mt.jpg</item>
+		<item>http://list.image.baidu.com/t/image_category/galleryimg/funny/funnyperson/ming_xgl.jpg</item>
+		<item>http://list.image.baidu.com/t/image_category/galleryimg/funny/funnything/gao_xsg.jpg</item>
+		<item>http://list.image.baidu.com/t/image_category/galleryimg/funny/funnycartoon/la_bxx.jpg</item>
+    </string-array>
+    
+    <!-- fragment setting -->
+    <string-array name="setting_items">
+        <item>用户信息</item>
+        <item>分享</item>
+        <item>意见反馈</item>
+        <item>版本更新</item>
+        <item>了解我们</item>
+        <item>退出</item>
+    </string-array>
+</resources>

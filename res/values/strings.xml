@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kuai Player</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="movies_tab_fragment">电 影</string>
+	<string name="tv_tab_fragment">电视剧</string>
+	<string name="variety_tab_fragment">综 艺</string>
+</resources>

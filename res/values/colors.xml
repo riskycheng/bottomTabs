@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="bg_color">#8CC1BB</color>
+    <color name="sensor_color">#EAEAEA</color>
+    <color name="slide_text">#60CEF3</color>
+    <color name="black">#000000</color>
+    <color name="tab_selected">#ffffff</color>
+    <color name="tab_normal">#8d9192</color>
+    <color name="pink">#e8438f</color>
+    <color name="gray">#cccccc</color>
+</resources>
